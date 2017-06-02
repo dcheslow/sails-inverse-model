@@ -2,6 +2,8 @@
 
 # Automated generator models, views and controllers for SailsJS & WaterLine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliandavidmr/sails-inverse-model.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/juliandavidmr/sails-inverse-model.svg?branch=master)](https://travis-ci.org/juliandavidmr/sails-inverse-model)
 
 **Sails Inverse Model** helps you build models, controllers and views JS Sails from any database. In addition, you can quickly and individually generate each model, view, controller or all three at the same time.
